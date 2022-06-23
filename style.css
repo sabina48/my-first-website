@@ -25,14 +25,34 @@ h1 {
 
 .top {
   display: flex;
-  margin-bottom: 100%;
+  margin-bottom: 10%;
 }
 
 .button {
   text-decoration: none;
+  font-weight: 700;
   border-radius: 30px;
   color: azure;
   background-color: orangered;
   padding: 20px 50px;
   box-shadow: 10px 10px 40px rgb(233, 91, 114);
+}
+
+.image {
+  width: 50%;
+  padding-left: 30%;
+  padding-top: 2%;
+
+}
+
+.half {
+  width: 50%;
+  padding-right: 10%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.bottom {
+  background-image: url(Images/shapes/7.png);
+  background-repeat: no-repeat;
 }
