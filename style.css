@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  margin: 4px;
+  margin: 0%;
 }
 
 .color {
@@ -10,6 +10,27 @@ body {
 h1 {
   font-size: 50px;
   color: darkslategray;
+}
+
+h3 {
+  padding-left: 30%;
+  width: 50%;
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-left: 4%;
+}
+
+#hh h1 {
+  font-size: 20%;
 }
 
 .half-width {
@@ -94,11 +115,40 @@ h1 {
 }
 
 .id1 {
-  width: 30%;
+  width: 25%;
   margin-left: 4%;
   margin-right: 2%;
   box-shadow: 10px 10px 40px gray;
   border-radius: 20px;
   height: 15%;
   padding-left: 4%;
+}
+
+.img5 {
+  box-shadow: 20px 5px 40px pink;
+  margin-left: 4%;
+  border-radius: 20px;
+
+}
+
+.img6 img {
+  width: 75%;
+  height: 70%;
+  margin-left: 20%;
+  box-shadow: 20px 5px 40px pink;
+  border-radius: 15px;
+}
+
+#color1 {
+  color: gray;
+}
+
+.div1 {
+  text-align: center;
+  background-color: black;
+  padding: 30px 20px;
+}
+
+#p3 {
+  color: whitesmoke;
 }
