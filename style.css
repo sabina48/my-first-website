@@ -95,16 +95,16 @@ h2 {
 }
 
 .img2 {
-  width: 80%;
+  width: 100%;
   padding-left: 5%;
 }
 
 .img3 {
-  width: 80%;
+  width: 100%;
 }
 
 .img4 {
-  width: 80%;
+  width: 100%;
   padding-right: 5%;
 }
 
@@ -126,7 +126,7 @@ h2 {
 
 .img5 {
   box-shadow: 20px 5px 40px pink;
-  margin-left: 4%;
+  margin-left: 10%;
   border-radius: 20px;
 
 }
